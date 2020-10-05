@@ -26,9 +26,12 @@ This project shows several lists that are retrieved from https://fetch-hiring.s3
 
 ## Built With
 
-- JavaScript/ES6
+- JavaScript/ES6+
 - React
 - React Hooks
+- Axios
+- CSS Modules
+- SASS
 - AWS Amplify
 
 
