@@ -8,9 +8,9 @@
 }
 
 .wrapper {
-  overflow: hidden;
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
   position: absolute;
   width: calc(100% - 40px);
   height: calc(100% - 118px);

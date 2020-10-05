@@ -1,5 +1,5 @@
 body {
-  overflow: hidden;
+  background-color: rgba(240, 240, 240, 0.707);
 }
 * {
   padding: 0;
