@@ -4,7 +4,7 @@ This project shows several lists that are retrieved from https://fetch-hiring.s3
 
 ## Live Preview
 
-[Visit live preview]
+[Visit live preview](https://deployed.d287vhzwji07e2.amplifyapp.com/)
 
 ## Screenshot
 
@@ -31,3 +31,13 @@ This project shows several lists that are retrieved from https://fetch-hiring.s3
 - React
 - React Hooks
 - AWS Amplify
+
+
+## Author
+
+👤 **Sebastian Gil Rodriguez**
+
+- Website: [sebgil.me](https://sebgil.me)
+- Github: [@sebGilR](https://github.com/sebGilR)
+- Twitter: [@sebGilR](https://twitter.com/sebGilR)
+- Linkedin: [sebastiangilrodriguez](https://www.linkedin.com/in/sebastiangilrodriguez)
