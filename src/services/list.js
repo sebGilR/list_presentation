@@ -1,15 +1,11 @@
-import axios from 'axios';
 import * as helpers from '../services/helpers';
+import data from './hiring';
 
 const getList = (setList, setLoading, setError, setListCount) => {
   setLoading(true);
-  axios.get('./hiring.json')
-  .then(res => {
-    setList(helpers.cleanList(res.data));
-    setListCount(helpers.getListsCount(res.data))
-    setLoading(false);
-  })
-  .catch(() => setError(true));
+  setList(helpers.cleanList(data));
+  setListCount(helpers.getListsCount(data));
+  setLoading(false);
 }
 
 export default getList
