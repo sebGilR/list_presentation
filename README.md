@@ -21,9 +21,8 @@ This project shows several lists that are retrieved from https://fetch-hiring.s3
 ## Setup
 
 1. Clone this repository and access the project's directory.
-2. Update the endpoint BASE url in src/services/endpoint.js with localhost:4000.
-3. Run "npm install".
-4. Run "npm start" to work on the development server.
+2. Run "npm install".
+3. Run "npm start" to work on the development server.
 
 ## Built With
 
